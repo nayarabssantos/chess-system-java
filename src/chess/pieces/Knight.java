@@ -5,6 +5,7 @@ import boardgame.Position;
 import chess.ChessPiece;
 import chess.Color;
 
+//classe cavalo
 public class Knight extends ChessPiece{
 
 	public Knight(Board board, Color color) {
